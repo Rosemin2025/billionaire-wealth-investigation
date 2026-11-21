@@ -1,12 +1,12 @@
-# billionaire-wealth-investigation
+# The Billionaire Wealth Investigation
 
 ![The Billionaire Wealth Investigation](billionaire-project-cover.png.png)
-# Project Overview
+# 1.Project Overview
 
 This project uses SQL to investigate the wealth, age, geographical distribution and industry representation of the world's 200 richest billionaires in the supplied dataset.
 The analysis was conducted using SQLite Online. It demonstrates practical SQL skills in data retrieval, filtering, sorting, aggregation, grouping and subqueries.
 
-# Objectives
+# 2.Objectives
 The project aims to:
 
 1.Retrieve the 20 richest billionaires.
@@ -29,9 +29,9 @@ The project aims to:
 
 10.Identify the industry with the highest average net worth.
 
-# Dataset Description
+# 3.Dataset Description
 
-The dataset contains 200 billionaire records and seven columns:
+The dataset contains 200 records and seven columns.
 
 Column
 
@@ -39,7 +39,7 @@ Description
 
 serial_number
 
-Unique record identifier
+Record identifier
 
 rank
 
@@ -59,13 +59,15 @@ Country or region
 
 networth_billion
 
-Net worth in billions of US dollars
+Net worth in US$ billions
 
 industry
 
-Industry associated with the billionaire
+Industry classification
 
-# Tools and Technologies
+
+
+# 4.Tools and Technologies
 
 SQL
 
@@ -77,7 +79,7 @@ Microsoft Excel
 
 GitHub
 
-# Data Quality Assessment
+# 5.Data Quality Assessment
 
 The following checks were performed:
 
@@ -91,7 +93,7 @@ Blank names, countries or industries: None found
 
 Zero or negative net worth values: None found
 
-# Key Findings
+# 6.Key Findings
 
 1. Wealth and Age
 
@@ -173,7 +175,7 @@ A total of 51 billionaires had net worth exceeding the overall average of US$31.
 
 Telecom recorded the highest average net worth at US$102 billion. However, this result was based on only one billionaire, so it should be interpreted cautiously.
 
-# SQL Skills Demonstrated
+# 7.SQL Skills Demonstrated
 
 This project applies:
 
@@ -199,13 +201,13 @@ ROUND()
 
 Subqueries
 
-# Project Files
+## 8. Project Files
 
-1.Billionaire_Wealth_Investigation.sql – SQL queries used in the analysis.
-
-2.Billionaire_Wealth_Investigation.xlsx – Exported dataset.
-
-3.Billionaire_Wealth_Investigation_Report.docx – Detailed assignment report.
+| File | Description |
+|---|---|
+| [SQL Queries](Billionaire_Wealth_Investigation.sql) | SQL statements used in the investigation |
+| [Excel Dataset](export%20from%20sqliteonline.com%20%282%29.xlsx) | Original dataset containing 200 records |
+| [Project Report](Billionaire_Wealth_Investigation_Report.docx) | Formatted assignment report |
 
 
 # Conclusion
