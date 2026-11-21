@@ -1,32 +1,33 @@
 # billionaire-wealth-investigation
-![The Billionaire Wealth Investigation](images/billionaire-project-cover.png)
+
+![The Billionaire Wealth Investigation](billionaire-project-cover.png.png)
 # Project Overview
 
 This project uses SQL to investigate the wealth, age, geographical distribution and industry representation of the world's 200 richest billionaires in the supplied dataset.
 The analysis was conducted using SQLite Online. It demonstrates practical SQL skills in data retrieval, filtering, sorting, aggregation, grouping and subqueries.
 
-#Objectives
+# Objectives
 The project aims to:
 
-Retrieve the 20 richest billionaires.
+1.Retrieve the 20 richest billionaires.
 
-Identify the five youngest billionaires.
+2.Identify the five youngest billionaires.
 
-Calculate the average age and average net worth.
+3.Calculate the average age and average net worth.
 
-Identify the five most represented countries.
+4.Identify the five most represented countries.
 
-Calculate combined billionaire wealth by country.
+5.Calculate combined billionaire wealth by country.
 
-Identify the five industries with the highest number of billionaires.
+6.Identify the five industries with the highest number of billionaires.
 
-Identify countries with at least five billionaires.
+7.Identify countries with at least five billionaires.
 
-Calculate the total wealth of billionaires younger than 50.
+8.Calculate the total wealth of billionaires younger than 50.
 
-Identify billionaires whose net worth exceeds the overall average.
+9.Identify billionaires whose net worth exceeds the overall average.
 
-Identify the industry with the highest average net worth.
+10.Identify the industry with the highest average net worth.
 
 # Dataset Description
 
